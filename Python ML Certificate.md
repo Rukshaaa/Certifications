@@ -10,9 +10,9 @@
 
 **Data Handling and Preprocessing**
 
-Used pandas and NumPy for cleaning, transforming, and organizing datasets.
+* Used pandas and NumPy for cleaning, transforming, and organizing datasets.
 
-Focused on mapping problem statements to usable Python applications and scripts.
+* Focused on mapping problem statements to usable Python applications and scripts.
 
 **Data Visualization**
 
@@ -22,13 +22,13 @@ Created graphs and dashboards using matplotlib and seaborn to communicate insigh
 
 Implemented supervised and unsupervised algorithms such as:
 
-Linear Regression
+* Linear Regression
 
-Logistic Regression
+* Logistic Regression
 
-K-Means Clustering
+* K-Means Clustering
 
-Decision Trees
+* Decision Trees
 
 Practiced model evaluation techniques including accuracy, precision, recall, and confusion matrices.
 

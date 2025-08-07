@@ -1,3 +1,6 @@
+
+# This repository showcases the certifications and training programs I’ve completed in cybersecurity, data science, and technology. Each reflects my hands-on experience, technical growth, and continuous learning mindset. These certifications represent more than just course completions ,  they demonstrate real-world skills and a proactive approach to learning beyond the classroom. My aim is to continuously evolve as a cybersecurity and data-driven technology professional.
+
 ## Google Cybersecurity Certificate(2025) – Earned via WiCyS Self-Led Cohort
 Developed hands-on skills in threat detection, log analysis, SIEM tools, incident response, and vulnerability management.
 

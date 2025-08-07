@@ -1,3 +1,3 @@
-# "Data Science and Machine Learning in Python Certificate"
+# Data Science and Machine Learning in Python Certificate
 
-##from Deerwalk Institute of Technology
+## from Deerwalk Institute of Technology
